@@ -1,9 +1,9 @@
 # testoo1
 
 
-test.php is for the Database connect.
+test1.php is for the Database connect for OOP.
 
-test2.php is for the function we will use in the webpage.
+test2.php is for the function we will use in the webpage for OOP.
 
 Frontpage.php can choose the report you like to view.
 
@@ -16,7 +16,7 @@ Frontpage2.php is the detail content for the report.
 import.php file is for download the csv from http://mip-prd-web.azurewebsites.net/DataItemExplorer/Index  and import to mysql.
 
 
-test(2).sql is the export of mysql.
+test(2).sql is the export of mysql. There are 2 tables in the database and they are the simple relational database(connect by id).
 
 
 
