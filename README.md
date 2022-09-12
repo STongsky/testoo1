@@ -8,7 +8,7 @@ test2.php is for the function we will use in the webpage for OOP.
 Frontpage.php can choose the report you like to view.
 
 
-Frontpage2.php is the detail content for the report.
+Frontpage2.php is the detail of the report you choose.
 
 
 
